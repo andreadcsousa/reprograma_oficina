@@ -1,3 +1,3 @@
 # Oficina Reprograma
  
-- Sites responsivo em HTML e CSS
+- Criação de site em HTML e CSS
