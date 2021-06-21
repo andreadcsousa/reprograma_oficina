@@ -3,20 +3,24 @@
 </h1>
 
 <p align="center">
-  <a href="#-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://andreadcsousa.github.io/reprograma_oficina/" target="_blank">Veja a página</a>
+  :white_check_mark: <a href="https://andreadcsousa.github.io/reprograma_oficina/" target="_blank">Veja a página</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  :white_check_mark: <a href="https://www.reprograma.com.br/index.html" target="_blank">Conheça a Reprograma</a>
 </p>
 
-## :computer: Projeto
+# :computer: Projeto
  
-Através da Oficina Reprograma, realizada em fevereiro de 2021, pude criar essa página, utilizando HTML e CSS.
+- Idealizador: Reprograma
+- Projeto: Todas em Tech
+- Lado da força: Front-End
+- Tipo: Live coding via Zoom
+- Etapa: Oficina introdutória
 
-## :rocket: Tecnologias
+# :rocket: Tecnologias
+
+Esse projeto foi desenvolvido com:
 
 <img src="./files/html.svg" alt="" width="100"><img src="./files/css.svg" alt="" width="100">
 
-## :art: Layout
+# :art: Layout
 
 <img src="./files/reprograma.jpg" alt="" width="100%">
