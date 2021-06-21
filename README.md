@@ -9,8 +9,6 @@
   <a href="https://andreadcsousa.github.io/reprograma_oficina/" target="_blank">Veja a página</a>
 </p>
 
-<hr>
-
 ## :computer: Projeto
  
 Através da Oficina Reprograma, realizada em fevereiro de 2021, pude criar essa página, utilizando HTML e CSS.
