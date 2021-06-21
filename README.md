@@ -1,6 +1,6 @@
-<p align="center"><img src="./files/logo.jpg" alt="" align="center"></p>
-
-<hr>
+<h1 align="center">
+    <img src="./files/logo.jpg" alt="" align="center">
+</h1>
 
 <p align="center">
   <a href="#-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -11,20 +11,18 @@
 
 <hr>
 
-## PROJETO
+## :computer: Projeto
  
-- Oficina Reprograma (fev/2021);
-- Criação de página com HTML e CSS;
-- Live coding via Zoom com VS Code.
+Através da Oficina Reprograma, realizada em fevereiro de 2021, pude criar essa página, utilizando HTML e CSS.
 
 <hr>
 
-## TECNOLOGIAS
+## Tecnologias
 
 <img src="./files/html.svg" alt="" width="100"><img src="./files/css.svg" alt="" width="100">
 
 <hr>
 
-## LAYOUT
+## Layout
 
 <img src="./files/reprograma.jpg" alt="" width="100%">
