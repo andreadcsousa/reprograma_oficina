@@ -11,15 +11,20 @@
 
 <hr>
 
-## Sobre o projeto
+## Projeto
  
-- Criação de página;
-- Live coding;
-- 
+- Oficina Reprograma (fev/2021);
+- Criação de página com HTML e CSS;
+- Live coding via Zoom com VS Code.
+
+<hr>
 
 ## Tecnologias
 
 <img src="./files/html.svg" alt="" width="100"><img src="./files/css.svg" alt="" width="100">
+
+<hr>
+
 ## Layout
 
 <img src="./files/reprograma.jpg" alt="" width="100%">
