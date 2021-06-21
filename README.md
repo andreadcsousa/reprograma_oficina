@@ -17,12 +17,12 @@ Através da Oficina Reprograma, realizada em fevereiro de 2021, pude criar essa 
 
 <hr>
 
-## Tecnologias
+## :rocket: Tecnologias
 
 <img src="./files/html.svg" alt="" width="100"><img src="./files/css.svg" alt="" width="100">
 
 <hr>
 
-## Layout
+## :art: Layout
 
 <img src="./files/reprograma.jpg" alt="" width="100%">
