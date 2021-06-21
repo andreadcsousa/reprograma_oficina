@@ -11,7 +11,7 @@
 
 <hr>
 
-## Projeto
+## PROJETO
  
 - Oficina Reprograma (fev/2021);
 - Criação de página com HTML e CSS;
@@ -19,12 +19,12 @@
 
 <hr>
 
-## Tecnologias
+## TECNOLOGIAS
 
 <img src="./files/html.svg" alt="" width="100"><img src="./files/css.svg" alt="" width="100">
 
 <hr>
 
-## Layout
+## LAYOUT
 
 <img src="./files/reprograma.jpg" alt="" width="100%">
