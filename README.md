@@ -13,13 +13,9 @@
  
 Através da Oficina Reprograma, realizada em fevereiro de 2021, pude criar essa página, utilizando HTML e CSS.
 
-<hr>
-
 ## :rocket: Tecnologias
 
 <img src="./files/html.svg" alt="" width="100"><img src="./files/css.svg" alt="" width="100">
-
-<hr>
 
 ## :art: Layout
 
